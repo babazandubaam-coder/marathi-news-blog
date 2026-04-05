@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>माझा ब्लॉग</title>
+  <style>
+    body {font-family: Arial; margin:0; background:#f4f4f4;}
+    header {background:#333; color:white; padding:15px; text-align:center;}
+    .container {padding:20px;}
+    .post {background:white; padding:15px; margin-bottom:15px; border-radius:10px;}
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>माझा ब्लॉग</h1>
+  <p>ज्ञान, माहिती आणि कमाई</p>
+</header>
+
+<div class="container">
+
+  <div class="post">
+    <h2>पहिला ब्लॉग पोस्ट</h2>
+    <p>इथे तुमचा ब्लॉग लिहा...</p>
+  </div>
+
+  <div class="post">
+    <h2>दुसरा ब्लॉग पोस्ट</h2>
+    <p>इथे तुमचा ब्लॉग लिहा...</p>
+  </div>
+
+</div>
+
+</body>
+</html>
